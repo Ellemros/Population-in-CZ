@@ -18,4 +18,3 @@
 - Input the API key among the environmental variables.
 - For connecting Power BI to SQLite3 database, you need to follow this article: https://community.fabric.microsoft.com/t5/Power-Query/connecting-a-SQLite-database/td-p/224205
 
-# Result Visual
